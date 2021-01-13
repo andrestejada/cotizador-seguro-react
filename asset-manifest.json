@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cotizador-seguro-react/static/css/main.e290a02a.chunk.css",
+    "main.js": "/cotizador-seguro-react/static/js/main.f9c318a1.chunk.js",
+    "main.js.map": "/cotizador-seguro-react/static/js/main.f9c318a1.chunk.js.map",
+    "runtime-main.js": "/cotizador-seguro-react/static/js/runtime-main.bf94b879.js",
+    "runtime-main.js.map": "/cotizador-seguro-react/static/js/runtime-main.bf94b879.js.map",
+    "static/js/2.b2e8e041.chunk.js": "/cotizador-seguro-react/static/js/2.b2e8e041.chunk.js",
+    "static/js/2.b2e8e041.chunk.js.map": "/cotizador-seguro-react/static/js/2.b2e8e041.chunk.js.map",
+    "static/js/3.9a1dd1ec.chunk.js": "/cotizador-seguro-react/static/js/3.9a1dd1ec.chunk.js",
+    "static/js/3.9a1dd1ec.chunk.js.map": "/cotizador-seguro-react/static/js/3.9a1dd1ec.chunk.js.map",
+    "index.html": "/cotizador-seguro-react/index.html",
+    "static/css/main.e290a02a.chunk.css.map": "/cotizador-seguro-react/static/css/main.e290a02a.chunk.css.map",
+    "static/js/2.b2e8e041.chunk.js.LICENSE.txt": "/cotizador-seguro-react/static/js/2.b2e8e041.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf94b879.js",
+    "static/js/2.b2e8e041.chunk.js",
+    "static/css/main.e290a02a.chunk.css",
+    "static/js/main.f9c318a1.chunk.js"
+  ]
+}
